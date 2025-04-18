@@ -1,0 +1,37 @@
+.add-property-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-property-container h2 {
+    text-align: center;
+    color: #007bff;
+  }
+  
+  .add-property-container input, .add-property-container select, .add-property-container button {
+    margin: 10px 0;
+    padding: 12px;
+    width: 100%;
+  }
+  
+  .add-property-container button {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .add-property-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* For images */
+  .image-preview {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 8px;
+  }
+  

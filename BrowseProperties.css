@@ -1,0 +1,25 @@
+.browse-properties-container {
+  max-width: 800px;
+  margin: 40px auto;
+  background-color: #0077cc;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  color: white;
+}
+
+.property-item {
+  background-color: #005fa3;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  color: white;
+}
+
+.property-image {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
